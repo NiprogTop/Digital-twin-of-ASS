@@ -1,0 +1,29 @@
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\bin\Debug\Клон АОЛ.exe.config
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\bin\Debug\Клон АОЛ.exe
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\bin\Debug\Клон АОЛ.pdb
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.csprojAssemblyReference.cache
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\obj\Debug\Клон_АОЛ.Properties.Resources.resources
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.csproj.GenerateResource.cache
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.csproj.CoreCompileInputs.cache
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.exe
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.pdb
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\obj\Debug\Клон_АОЛ.Form1.resources
+C:\Users\pashi\Downloads\Клон АОЛ\Клон АОЛ\Клон АОЛ\bin\Debug\Клон АОЛ.exe.config
+C:\Users\pashi\Downloads\Клон АОЛ\Клон АОЛ\Клон АОЛ\bin\Debug\Клон АОЛ.exe
+C:\Users\pashi\Downloads\Клон АОЛ\Клон АОЛ\Клон АОЛ\bin\Debug\Клон АОЛ.pdb
+C:\Users\pashi\Downloads\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.csprojAssemblyReference.cache
+C:\Users\pashi\Downloads\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон_АОЛ.Form1.resources
+C:\Users\pashi\Downloads\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон_АОЛ.Properties.Resources.resources
+C:\Users\pashi\Downloads\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.csproj.GenerateResource.cache
+C:\Users\pashi\Downloads\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.exe
+C:\Users\pashi\Downloads\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.pdb
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\Клон АОЛ\bin\Debug\Клон АОЛ.exe.config
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\Клон АОЛ\bin\Debug\Клон АОЛ.exe
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\Клон АОЛ\bin\Debug\Клон АОЛ.pdb
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.csprojAssemblyReference.cache
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон_АОЛ.Form1.resources
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон_АОЛ.Properties.Resources.resources
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.csproj.GenerateResource.cache
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.csproj.CoreCompileInputs.cache
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.exe
+D:\Универ\Хакатон\Клон АОЛ\Клон АОЛ\Клон АОЛ\obj\Debug\Клон АОЛ.pdb
